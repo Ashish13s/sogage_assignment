@@ -1,3 +1,5 @@
 venv
 .env
 output.json
+/__pycache__
+/.mypy_cache
